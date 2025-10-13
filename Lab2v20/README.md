@@ -39,7 +39,7 @@ public static ClassName operator +(ClassName obj, Type value)
 {
     // Реалізація оператора
 }
-
+```
 ---
 
 **4. У чому переваги використання індексаторів?**

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP-Fomenko")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c90af1d285eecd669e71e5766b02ea791b35617a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f710901a16aa1a745178b46de0fae5c47d56313")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP-Fomenko")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP-Fomenko")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

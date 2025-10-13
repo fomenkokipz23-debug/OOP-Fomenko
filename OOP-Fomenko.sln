@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Fomenko", "Lab1v20\OOP-Fomenko.csproj", "{DF7FF9A6-BCAD-7813-F7E0-E2FD9505702B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2v20", "Lab2v20\Lab2v20.csproj", "{9263FD6E-56F4-A8C2-BB4F-29F80B87CD66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3v20", "Lab3v20\Lab3v20.csproj", "{2F19C7F7-E780-4ABA-6999-A04B3653FB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7FF9A6-BCAD-7813-F7E0-E2FD9505702B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7FF9A6-BCAD-7813-F7E0-E2FD9505702B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7FF9A6-BCAD-7813-F7E0-E2FD9505702B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7FF9A6-BCAD-7813-F7E0-E2FD9505702B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9263FD6E-56F4-A8C2-BB4F-29F80B87CD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9263FD6E-56F4-A8C2-BB4F-29F80B87CD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9263FD6E-56F4-A8C2-BB4F-29F80B87CD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9263FD6E-56F4-A8C2-BB4F-29F80B87CD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F19C7F7-E780-4ABA-6999-A04B3653FB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F19C7F7-E780-4ABA-6999-A04B3653FB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F19C7F7-E780-4ABA-6999-A04B3653FB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F19C7F7-E780-4ABA-6999-A04B3653FB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE221A6C-A7A3-4ED3-879C-E570FB7C18DE}
+	EndGlobalSection
+EndGlobal

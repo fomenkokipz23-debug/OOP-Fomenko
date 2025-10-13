@@ -1,0 +1,15 @@
+D:\OOP\OOP-Fomenko\Lab3v20\bin\Debug\net9.0\Lab3v20.exe
+D:\OOP\OOP-Fomenko\Lab3v20\bin\Debug\net9.0\Lab3v20.deps.json
+D:\OOP\OOP-Fomenko\Lab3v20\bin\Debug\net9.0\Lab3v20.runtimeconfig.json
+D:\OOP\OOP-Fomenko\Lab3v20\bin\Debug\net9.0\Lab3v20.dll
+D:\OOP\OOP-Fomenko\Lab3v20\bin\Debug\net9.0\Lab3v20.pdb
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\Lab3v20.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\Lab3v20.AssemblyInfoInputs.cache
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\Lab3v20.AssemblyInfo.cs
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\Lab3v20.csproj.CoreCompileInputs.cache
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\Lab3v20.sourcelink.json
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\Lab3v20.dll
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\refint\Lab3v20.dll
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\Lab3v20.pdb
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\Lab3v20.genruntimeconfig.cache
+D:\OOP\OOP-Fomenko\Lab3v20\obj\Debug\net9.0\ref\Lab3v20.dll

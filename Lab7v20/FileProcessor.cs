@@ -9,9 +9,8 @@ public class FileProcessor
     {
         failCount++;
 
-        // Імітація помилки 3 рази
         if (failCount <= 3)
-            throw new IOException("Помилка читання файлу (імітація).");
+            throw new IOException("Не вдалося зчитати файл (імітація помилки).");
 
         return "{ \"title\": \"Hello\", \"message\": \"Push OK\" }";
     }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OOP\\OOP-Fomenko\\Lab1v20\\OOP-Fomenko.csproj",
+      "projectUniqueName": "D:\\OOP 2.0\\OOP-Fomenko\\Lab1v20\\OOP-Fomenko.csproj",
       "projectName": "OOP-Fomenko",
-      "projectPath": "D:\\OOP\\OOP-Fomenko\\Lab1v20\\OOP-Fomenko.csproj",
+      "projectPath": "D:\\OOP 2.0\\OOP-Fomenko\\Lab1v20\\OOP-Fomenko.csproj",
       "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-      "outputPath": "D:\\OOP\\OOP-Fomenko\\Lab1v20\\obj\\",
+      "outputPath": "D:\\OOP 2.0\\OOP-Fomenko\\Lab1v20\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

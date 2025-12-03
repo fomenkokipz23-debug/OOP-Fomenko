@@ -9,9 +9,10 @@ public class NetworkClient
     {
         failCount++;
 
+        // Імітація помилки 2 рази
         if (failCount <= 2)
             throw new HttpRequestException("Помилка мережі (імітація).");
 
-        Console.WriteLine($"Push до {deviceId} надіслано успішно!");
+        Console.WriteLine($"Push надіслано успішно до {deviceId}!");
     }
 }

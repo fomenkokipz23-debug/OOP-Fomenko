@@ -76,6 +76,4 @@ retry тільки якщо це IOException або HttpRequestException
 1. тимчасові помилки, де retry корисний
 2. критичні помилки, де retry недоречний
 
-
-
-![alt text](image.png)
+![alt text](image-1.png)

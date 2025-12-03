@@ -7,7 +7,6 @@ using Polly.CircuitBreaker;
 using Polly.Timeout;
 using System.Threading.Tasks; 
 
-
 public class Program
 {
     // Лічильник для імітації помилок у Сценарії 1
@@ -145,8 +144,6 @@ public class Program
                     Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] ⏱ TIMEOUT! Операція перевищила ліміт у {timespan.TotalMilliseconds} мс.");
                     Console.ResetColor();
-                    // Повернення Task.CompletedTask є обов'язковим для void-делегата
-                    return Task.CompletedTask; 
                 });
 
         try
